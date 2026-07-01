@@ -1,8 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Hussayn-01&color=blue)
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Hussayn-01?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Hussayn-01?affiliations=OWNER&style=social)
 # Hi there 👋, I'm Hussayn
 
 ## 💻 Frontend Developer | Learning Full Stack Development
