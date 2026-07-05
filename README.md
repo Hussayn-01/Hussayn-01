@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Hussayn%20Ul%20Haq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Crafting%20Clean%2C%20Fast%20%26%20Accessible%20UIs&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hussayn%20Ul%20Haq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=52&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+beautiful+interfaces...;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Turning+designs+into+pixel-perfect+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+interfaces;HTML+%2B+CSS+%2B+JavaScript+%2B+React;Turning+designs+into+pixel-perfect+code;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hussayn-01&color=00c9ff&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Hussayn-01?style=flat-square&color=00c9ff&label=Followers)
 
 </div>
 
@@ -10,12 +17,16 @@
 
 ## 👋 About Me
 
-I'm **Hussayn**, a **Frontend Developer** passionate about building fast, responsive, and user-friendly web experiences. I enjoy turning ideas and designs into clean, maintainable code — and I'm always exploring new tools to level up my craft.
+I'm **Hussayn**, a **Frontend Developer** focused on building fast, responsive, and user-friendly web experiences. I enjoy turning ideas and designs into clean, maintainable code, and I'm always exploring new tools to sharpen my craft.
 
-- 🔭 Currently building modern, responsive web interfaces
-- 🌱 Deepening my knowledge of React and modern JavaScript
-- 🎯 Focused on clean UI, performance, and accessibility
-- ⚡ Fun fact: I love turning a Figma design into pixel-perfect code
+```txt
+const hussayn = {
+    role: "Frontend Developer",
+    focus: ["Responsive UI", "Performance", "Accessibility"],
+    currentlyLearning: "Advanced React & Modern JavaScript",
+    funFact: "I love turning a Figma design into pixel-perfect code"
+};
+```
 
 <br/>
 
@@ -23,16 +34,7 @@ I'm **Hussayn**, a **Frontend Developer** passionate about building fast, respon
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma&theme=dark" />
 
 </div>
 
