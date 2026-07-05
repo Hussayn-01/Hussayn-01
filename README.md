@@ -8,25 +8,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hussayn-01&color=00c9ff&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Hussayn-01?style=flat-square&color=00c9ff&label=Followers)
-
 </div>
-
-<br/>
-
-## 👋 About Me
-
-I'm **Hussayn**, a **Frontend Developer** focused on building fast, responsive, and user-friendly web experiences. I enjoy turning ideas and designs into clean, maintainable code, and I'm always exploring new tools to sharpen my craft.
-
-```txt
-const hussayn = {
-    role: "Frontend Developer",
-    focus: ["Responsive UI", "Performance", "Accessibility"],
-    currentlyLearning: "Advanced React & Modern JavaScript",
-    funFact: "I love turning a Figma design into pixel-perfect code"
-};
-```
 
 <br/>
 
@@ -76,7 +58,5 @@ const hussayn = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer"/>
-
-**Thanks for stopping by — happy coding! 🚀**
 
 </div>
